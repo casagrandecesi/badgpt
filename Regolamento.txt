@@ -1,0 +1,12 @@
+Sapevi che le moderne intelligenze artificiali generative, come ChatGPT, non sono infallibili? Alcune risposte possono essere clamorosamente sbagliate: è inevitabile, a causa dei dati usati per il loro addestramento e gli algoritmi su cui sono basati.
+
+Questo concorso, il BadGPT contest, si riferisce in particolare a ChatGPT: invia una risposta errata prodotta da ChatGPT e, se la nostra giuria la riterrà la migliore (nonché la più divertente), potrai vincere l'esclusivo badge "GPTBreaker"!
+
+Ci sono poche semplici regole:
+
+1. Puoi inviare quante risposte vuoi
+2. Devi inviare risposte errate prodotte direttamente da ChatGPT
+3. Le risposte errate devono essere verificabili: ChatGPT deve poter confermare di aver prodotto il testo
+4. Le risposte devono essere inviate entro le 23:59 del 30 giugno 2024 (fuso orario di Roma)
+
+In bocca al lupo!

@@ -1,0 +1,12 @@
+Did you know that modern generative artificial intelligence, like ChatGPT, is far from flawless? Some answers may be spectacularly wrong: this is inevitable, due to the data used to train them and the algorithms on which they are based.
+
+The BadGPT contest refers in particular to ChatGPT: send an incorrect ChatGPT answer and, if our jury deems it the best (and funnies), you can win the exclusive "GPTBreaker" badge!
+
+There are a few simple rules:
+
+1. You may submit as many responses as you want
+2. You have to send wrong answers written directly by ChatGPT
+3. The answers must be verifiable: ChatGPT must be able to confirm that it produced the text by itself
+4. The answers can be submitted up to 23:59 of June 30, 2024 (Rome time zone)
+
+Break a leg!
